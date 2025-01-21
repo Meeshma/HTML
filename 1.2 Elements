@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HTML Elements Example</title>
+</head>
+<body>
+    <!-- Headings -->
+    <h1>I am Akash</h1>
+    <h2>I am Akash</h2>
+    <h3>I am Akash</h3>
+    <h4>I am Akash</h4>
+    <h5>I am Akash</h5>
+    <h6>I am Akash</h6>
+
+    <!-- Paragraph -->
+    <p>I am Akash</p>
+
+    <!-- Bold and Italic -->
+    <b>I am Akash</b>
+    <i>I am Akash</i>
+
+    <!-- Underline -->
+    <u>I am Akash</u>
+
+    <!-- Line Break -->
+    <br>
+
+    <!-- Horizontal Rule -->
+    <hr>
+
+    <!-- Ordered List -->
+    <ol>
+        <li>I am Akash</li>
+        <li>I am Akash</li>
+        <li>I am Akash</li>
+    </ol>
+
+    <!-- Unordered List -->
+    <ul>
+        <li>I am Akash</li>
+        <li>I am Akash</li>
+        <li>I am Akash</li>
+    </ul>
+
+    <!-- Table -->
+    <table border="1">
+        <tr>
+            <th>I am Akash</th>
+            <th>I am Akash</th>
+        </tr>
+        <tr>
+            <td>I am Akash</td>
+            <td>I am Akash</td>
+        </tr>
+    </table>
+
+    <!-- Image -->
+    <img src="https://via.placeholder.com/150" alt="I am Akash">
+
+    <!-- Link -->
+    <a href="https://www.example.com">I am Akash</a>
+
+    <!-- Form -->
+    <form>
+        <label for="name">I am Akash:</label>
+        <input type="text" id="name" name="name">
+        <input type="submit" value="Submit">
+    </form>
+
+    <!-- Button -->
+    <button>I am Akash</button>
+
+    <!-- Div -->
+    <div>I am Akash</div>
+
+    <!-- Span -->
+    <span>I am Akash</span>
+
+    <!-- Blockquote -->
+    <blockquote>I am Akash</blockquote>
+
+    <!-- Code -->
+    <code>I am Akash</code>
+
+    <!-- Preformatted Text -->
+    <pre>I am Akash</pre>
+</body>
+</html>

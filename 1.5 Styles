@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HTML Styles Example</title>
+    <style>
+        .bold {
+            font-weight: bold;
+        }
+        .italic {
+            font-style: italic;
+        }
+        .underline {
+            text-decoration: underline;
+        }
+        .color {
+            color: blue;
+        }
+        .background {
+            background-color: yellow;
+        }
+        .font {
+            font-family: Arial, sans-serif;
+        }
+        .size {
+            font-size: 24px;
+        }
+        .align {
+            text-align: center;
+        }
+        .margin {
+            margin: 20px;
+        }
+        .padding {
+            padding: 20px;
+        }
+        .border {
+            border: 2px solid black;
+        }
+    </style>
+</head>
+<body>
+    <p class="bold">I am Akash</p>
+    <p class="italic">I am Akash</p>
+    <p class="underline">I am Akash</p>
+    <p class="color">I am Akash</p>
+    <p class="background">I am Akash</p>
+    <p class="font">I am Akash</p>
+    <p class="size">I am Akash</p>
+    <p class="align">I am Akash</p>
+    <p class="margin">I am Akash</p>
+    <p class="padding">I am Akash</p>
+    <p class="border">I am Akash</p>
+</body>
+</html>

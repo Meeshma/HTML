@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HTML Colors Example</title>
+</head>
+<body>
+    <p style="color: rgba(255, 0, 0, 0.5);">I am Akash</p> <!-- RGBA color with transparency -->
+    <p style="color: rgba(0, 0, 255, 0.5);">I am Akash</p>
+    <p style="color: rgba(0, 128, 0, 0.5);">I am Akash</p>
+</body>
+</html>

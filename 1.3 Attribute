@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HTML Attributes Example</title>
+</head>
+<body>
+    <!-- Heading with id and class attributes -->
+    <h1 id="main-heading" class="heading">I am Akash</h1>
+
+    <!-- Paragraph with style attribute -->
+    <p style="color: blue; font-size: 20px;">I am Akash</p>
+
+    <!-- Image with src, alt, width, and height attributes -->
+    <img src="GIVE IMAGE LINK HERE " alt="I am Akash" width="150" height="150">
+
+    <!-- Link with href and target attributes -->
+    <a href="https://www.example.com" target="_blank">I am Akash</a>
+
+    <!-- Input with type, name, value, and placeholder attributes -->
+    <input type="text" name="name" value="I am Akash" placeholder="Enter your name">
+
+    <!-- Button with type and onclick attributes -->
+    <button type="button" onclick="alert('I am Akash')">I am Akash</button>
+
+    <!-- Div with title attribute -->
+    <div title="I am Akash">I am Akash</div>
+
+    <!-- Span with data-* attribute -->
+    <span data-info="I am Akash">I am Akash</span>
+
+    <!-- Form with action and method attributes -->
+    <form action="/submit" method="post">
+        <label for="name">I am Akash:</label>
+        <input type="text" id="name" name="name">
+        <input type="submit" value="Submit">
+    </form>
+
+    <!-- Table with border attribute -->
+    <table border="1">
+        <tr>
+            <th>I am Akash</th>
+            <th>I am Akash</th>
+        </tr>
+        <tr>
+            <td>I am Akash</td>
+            <td>I am Akash</td>
+        </tr>
+    </table>
+</body>
+</html>
